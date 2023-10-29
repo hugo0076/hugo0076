@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey, I'm Hugo
+
+I'm interested in understanding ML systems better and making sure that they're helpful, not harmful :)
+
+Feel free to email me at hugo0076@gmail.com
 
 <!--
 **hugo0076/hugo0076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
