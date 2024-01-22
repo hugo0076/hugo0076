@@ -1,6 +1,6 @@
-### Hey, I'm Hugo
+### Hey, I'm Hugo (he/him)
 
-I'm interested in understanding ML systems better and making sure that they're helpful, not harmful :)
+I'm interested in understanding ML systems better and making sure that they're maximally helpful :)
 
 Feel free to email me at hugo0076@gmail.com
 
